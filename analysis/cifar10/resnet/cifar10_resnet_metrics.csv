@@ -1,4 +1,4 @@
-dataset,model,params,policy,accuracy,precision,recall,f1-score,training-time(s)
+dataset,model,params,policy,accuracy,precision,recall,f1score,latency
 cifar10,resnet,23585290,1,0.7339,0.747563483,0.7339,0.735809155,617.3278363
 cifar10,resnet,23585290,2,0.8517,0.853504714,0.8517,0.852274908,1415.693934
 cifar10,resnet,23585290,3,0.6286,0.635144122,0.6286,0.62579911,587.1025279

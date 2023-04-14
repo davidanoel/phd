@@ -1,4 +1,4 @@
-dataset,model,params,policy,accuracy,precision,recall,f1-score,training-time(s)
+dataset,model,params,policy,accuracy,precision,recall,f1score,latency
 cifar10,inception,21823274,1,0.8196,0.822895492,0.8196,0.819159553,1288.290989
 cifar10,inception,21823274,2,0.9134,0.914210018,0.9134,0.913494962,2912.677103
 cifar10,inception,21823274,3,0.6483,0.668017658,0.6483,0.644110308,1370.890961
