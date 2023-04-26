@@ -1,6 +1,6 @@
 # PhD Dissertation
 
-Repository to support PhD dissertation for improving spatial invariance in convolutional neural networks.
+Repository to support my PhD dissertation for improving spatial invariance in convolutional neural networks.
 
 # Requirements
 
