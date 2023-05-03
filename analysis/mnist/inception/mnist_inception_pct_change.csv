@@ -1,0 +1,6 @@
+dataset,model,params,policy,accuracy,precision,recall,f1score,latency,delta(%)
+mnist,inception,21823274.0,1,0.9943,0.9944,0.9942,0.9943,1780.83,0.0
+mnist,inception,21823274.0,2,0.9958,0.9959,0.9957,0.9958,3200.92,0.15
+mnist,inception,21823274.0,3,0.9892,0.9894,0.9891,0.9892,1851.91,-0.51
+mnist,inception,21823274.0,4,0.9956,0.9956,0.9955,0.9956,3422.4,0.13
+mnist,inception,21823274.0,5,0.9911,0.9911,0.9911,0.9911,2023.71,-0.32

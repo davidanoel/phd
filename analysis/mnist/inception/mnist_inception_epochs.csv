@@ -1,0 +1,6 @@
+dataset,model,policy,epochs
+mnist,inception,1,50
+mnist,inception,2,84
+mnist,inception,3,52
+mnist,inception,4,49
+mnist,inception,5,47

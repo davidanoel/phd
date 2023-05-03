@@ -1,0 +1,6 @@
+dataset,model,policy,epochs
+cifar10,inception,1,43
+cifar10,inception,2,94
+cifar10,inception,3,43
+cifar10,inception,4,43
+cifar10,inception,5,44
