@@ -1,0 +1,6 @@
+dataset,model,policy,epochs
+mnist,basic,1,72
+mnist,basic,2,96
+mnist,basic,3,63
+mnist,basic,4,56
+mnist,basic,5,67
