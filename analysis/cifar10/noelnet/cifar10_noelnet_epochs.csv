@@ -1,0 +1,6 @@
+dataset,model,policy,epochs
+cifar10,noelnet,1,66
+cifar10,noelnet,2,100
+cifar10,noelnet,3,49
+cifar10,noelnet,4,72
+cifar10,noelnet,5,74

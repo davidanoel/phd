@@ -1,0 +1,6 @@
+dataset,model,policy,epochs
+mnist,noelnet,1,72
+mnist,noelnet,2,96
+mnist,noelnet,3,63
+mnist,noelnet,4,56
+mnist,noelnet,5,97
