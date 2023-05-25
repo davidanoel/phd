@@ -1,6 +1,0 @@
-dataset,model,policy,epochs
-fmnist,basic,1,58
-fmnist,basic,2,100
-fmnist,basic,3,47
-fmnist,basic,4,62
-fmnist,basic,5,56

@@ -1,6 +1,0 @@
-dataset,model,policy,epochs
-cifar10,basic,1,66
-cifar10,basic,2,100
-cifar10,basic,3,49
-cifar10,basic,4,72
-cifar10,basic,5,74
